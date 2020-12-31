@@ -65,17 +65,6 @@ console.log( invoiceBody)
 })
 
 console.log(counter)
-//console.log(pList)
-
-//pList.forEach( patient => {
-  
-//  let mail = new Mail() 
-//  mail.toRecipients = [patient.email]
-//  mail.subject = patient.emailSubject
-//  mail.body = patient.emailBody
-//  mail.preferredSendingEmailAddress = "yangchiro@gmail.com"
-//  mail.send()
-//})
 
 Script.setShortcutOutput(pList)
 
